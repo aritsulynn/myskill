@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# IDE / Editor
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build outputs
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Misc
+*.bak
+*.tmp
