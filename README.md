@@ -8,6 +8,7 @@ Custom skills for AI coding agents (OpenCode, Claude Code, Copilot CLI, Gemini C
 |-------|-------------|
 | **fundamental-analysis** | Analyze stocks using fundamental data — revenue, earnings, valuation ratios, profitability, balance sheet health, cash flow, and growth estimates. |
 | **stock-analysis** | Analyze stocks with technical indicators including support/resistance levels, RSI, MACD, Bollinger Bands, moving averages, volume analysis, and candlestick patterns. |
+| **stock-news-sentiment** | Fetch recent news headlines, classify sentiment (bullish/bearish/neutral), and compare against price trend to show alignment or divergence. |
 | **world-news** | Fetch top headlines via NewsAPI and produce AI-summarized morning briefs. |
 
 ## Usage
